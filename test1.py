@@ -6,3 +6,5 @@ new_name = "varsha"
 find_name = "hello"
 #adding one more for rebase
 rebase1 = 5
+#my changes for merge
+merger_name= "varsha"
