@@ -6,10 +6,7 @@ new_name = "varsha"
 find_name = "hello"
 #adding one more for rebase
 rebase1 = 5
-<<<<<<< HEAD
 #my changes for merge
 merger_name= "varsha"
-=======
 #to learn merge, when both do the changes in remote and local
 merge_name = "riya"
->>>>>>> origin
