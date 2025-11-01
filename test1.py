@@ -15,3 +15,6 @@ print("This is from main branch")
 print("This line is only on feature-merge branch")
 print("This line is from main branch")
 print("This line is from feature-merge_new new branch")
+print("This is from main branch")
+print("This is from feature-rebase branch")
+
