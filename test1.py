@@ -10,3 +10,6 @@ rebase1 = 5
 merger_name= "varsha"
 #to learn merge, when both do the changes in remote and local
 merge_name = "riya"
+print("This is from feature-merge branch")
+print("This is from main branch")
+print("This line is only on feature-merge branch")
